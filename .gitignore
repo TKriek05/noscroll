@@ -1,0 +1,19 @@
+# Android Studio / Gradle
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Build output
+app/build/
+build/
+
+# Keystores (nooit in git)
+*.jks
+*.keystore

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScrollLess</string>
+    <string name="accessibility_service_label">ScrollLess bewaker</string>
+    <string name="accessibility_service_description">Merkt op wanneer je Instagram of YouTube opent en toont eerst een bewust moment met een vervanger-suggestie. ScrollLess leest geen scherminhoud en stuurt niets naar internet.</string>
+</resources>

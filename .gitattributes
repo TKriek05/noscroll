@@ -1,0 +1,9 @@
+# Houd de regeleindes van de wrapper-scripts intact, ongeacht het platform
+# waarop iemand cloont. Een .bat met LF-eindes wordt door cmd verkeerd geparsed.
+*.bat           text eol=crlf
+gradlew         text eol=lf
+*.jar           binary
+*.kt            text
+*.kts           text
+*.xml           text
+*.pro           text
